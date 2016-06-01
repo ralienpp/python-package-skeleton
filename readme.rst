@@ -7,7 +7,7 @@ This is a Python package skeleton that demonstrates what directory layout to use
 Installation
 ------------
 
-``pip install git+ssh://asdsada``
+``pip install git+https://github.com/ralienpp/python-package-skeleton.git``
 
 
 

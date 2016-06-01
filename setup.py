@@ -4,7 +4,7 @@ LONG_DESC = '''This is a more elaborate description of the package'''
 
 setup(
     name = 'acmepack',
-    packages = [name],
+    packages = ['acmepack'],
     version = '0.1',
     long_description=LONG_DESC,
     description = 'Python package skeleton',
